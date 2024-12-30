@@ -1,4 +1,4 @@
-package com.vehicle.tracker;
+package com.vehicle.tracker.cox;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
